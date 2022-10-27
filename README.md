@@ -1,5 +1,8 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+
+#213430565_PUTI ZAFANIA
+
+1. Latihan 1: pada latihan ini membahas mengenai pass bye value yang mana data diambil dari kode pemanggil ke dalam method. jika variabel yang ada di method berubah maka varibale yanga da pada kode pemanggil tidak berubah.
+2. Latihan 2: Latihan ini membahas mengenai passing by reference yaitu kebalikan dari latihan sebelumnya yang mana data yang dilewatkan darikode pemanggil kedalam method berasal dan diambil dari reference atau alamat dari variabel itu sendiiri. jadi jika variabel di method berubah maka variabel pada kode pemanggil akan berubah.
+3. Latihan 3: latihan ini membahas mengenai metode equal atau komparator, yaitu membandingkan dua buah string. menggunakan simbol '=='.Jika dua string memiliki huruf yang sama maka kedua string ini dianggap sama
+4. Latihan 4: latihan ini membuat kelas baru yang didalam nya terdapat objek baru yang nantinya akan di panggil dalam kelas yang berbeda.
